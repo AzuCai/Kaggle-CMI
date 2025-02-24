@@ -1,4 +1,4 @@
-# <a href = 'https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use'>Kaggle CMI (Child Mind Institute — Problematic Internet Use)</a>
+# <a href = 'https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use' target='_blank'>Kaggle CMI </a> (Child Mind Institute — Problematic Internet Use)
 
 ## Project Overview
 This repository contains our solution for the Kaggle CMI Competition 2024. The goal of the competition was to predict the Severity Impairment Index (SII) for children using their physical activity data and internet usage patterns. Machine learning and deep learning techniques were applied to achieve optimal predictive performance. 
